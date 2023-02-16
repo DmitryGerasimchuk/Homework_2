@@ -1,0 +1,15 @@
+/Users/dmitrijgerasimcuk/Downloads/GeekBrains/Hometask_2/Task202/bin/Debug/net6.0/Task202
+/Users/dmitrijgerasimcuk/Downloads/GeekBrains/Hometask_2/Task202/bin/Debug/net6.0/Task202.deps.json
+/Users/dmitrijgerasimcuk/Downloads/GeekBrains/Hometask_2/Task202/bin/Debug/net6.0/Task202.runtimeconfig.json
+/Users/dmitrijgerasimcuk/Downloads/GeekBrains/Hometask_2/Task202/bin/Debug/net6.0/Task202.dll
+/Users/dmitrijgerasimcuk/Downloads/GeekBrains/Hometask_2/Task202/bin/Debug/net6.0/Task202.pdb
+/Users/dmitrijgerasimcuk/Downloads/GeekBrains/Hometask_2/Task202/obj/Debug/net6.0/Task202.csproj.AssemblyReference.cache
+/Users/dmitrijgerasimcuk/Downloads/GeekBrains/Hometask_2/Task202/obj/Debug/net6.0/Task202.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dmitrijgerasimcuk/Downloads/GeekBrains/Hometask_2/Task202/obj/Debug/net6.0/Task202.AssemblyInfoInputs.cache
+/Users/dmitrijgerasimcuk/Downloads/GeekBrains/Hometask_2/Task202/obj/Debug/net6.0/Task202.AssemblyInfo.cs
+/Users/dmitrijgerasimcuk/Downloads/GeekBrains/Hometask_2/Task202/obj/Debug/net6.0/Task202.csproj.CoreCompileInputs.cache
+/Users/dmitrijgerasimcuk/Downloads/GeekBrains/Hometask_2/Task202/obj/Debug/net6.0/Task202.dll
+/Users/dmitrijgerasimcuk/Downloads/GeekBrains/Hometask_2/Task202/obj/Debug/net6.0/refint/Task202.dll
+/Users/dmitrijgerasimcuk/Downloads/GeekBrains/Hometask_2/Task202/obj/Debug/net6.0/Task202.pdb
+/Users/dmitrijgerasimcuk/Downloads/GeekBrains/Hometask_2/Task202/obj/Debug/net6.0/Task202.genruntimeconfig.cache
+/Users/dmitrijgerasimcuk/Downloads/GeekBrains/Hometask_2/Task202/obj/Debug/net6.0/ref/Task202.dll
